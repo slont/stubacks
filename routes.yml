@@ -1,0 +1,5 @@
+routes:
+  api:
+    - path: '/users'
+      resource: './resources/api/users.json'
+
